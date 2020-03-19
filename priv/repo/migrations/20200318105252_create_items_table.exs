@@ -1,4 +1,4 @@
-defmodule MenuCard.Repo.Migrations.AddItemsTable do
+defmodule MenuCard.Repo.Migrations.CreateItems do
   use Ecto.Migration
 
   def change do
